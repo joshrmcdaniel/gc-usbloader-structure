@@ -1,0 +1,4 @@
+loguru
+pandas
+requests
+xmltodict
